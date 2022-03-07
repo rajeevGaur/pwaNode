@@ -48,8 +48,7 @@ app.post('/ping', function (req, res) {
         });
     }, 5000);
 })
-
-// module.exports = app;
-app.listen(5050, function () {
-    console.log('Example app listening on port 5050!')
-})
+module.exports = app;
+//app.listen(5050, function () {
+//console.log('Example app listening on port 5050!')
+//})
