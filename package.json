@@ -9,7 +9,7 @@
   "scripts": {
     "start": "node index.js"
   },
-  "author": "rishabh",
+  "author": "rishabh gaur",
   "license": "ISC",
   "dependencies": {
     "body-parser": "^1.19.2",
