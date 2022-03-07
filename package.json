@@ -7,7 +7,6 @@
   },
   "main": "app.js",
   "scripts": {
-    "build": "node app.js",
     "start": "node app.js"
   },
   "author": "",
