@@ -1,0 +1,19 @@
+{
+  "name": "pwa-node",
+  "version": "1.0.0",
+  "description": "testing push notification",
+  "engines": {
+    "node": "16.x"
+  },
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.2",
+    "express": "^4.17.3",
+    "web-push": "^3.4.5"
+  }
+}
